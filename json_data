@@ -1,5 +1,6 @@
 [
   {
+    "id": 100,
     "productType": "SOLD_OUT",
     "productTypeName": "Sold Out",
     "productBrand": "Nike Elite Pro",
@@ -8,6 +9,7 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeEliteProBasketballBackpack.png",
   },
   {
+    "id": 101,
     "productType": "SOLD_OUT",
     "productTypeName": "Sold Out",
     "productBrand": "Nike Heritage",
@@ -16,6 +18,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/basketballBackpack.png",
   },
   {
+
+    "id": 102,
     "productType": "SOLD_OUT",
     "productTypeName": "Sold Out",
     "productBrand": "Nike Air",
@@ -24,6 +28,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeAirBasketballBackpack.png",
   },
   {
+
+    "id": 103,
     "productType": "SOLD_OUT",
     "productTypeName": "Sold Out",
     "productBrand": "Nike",
@@ -32,6 +38,7 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeBag.png",
   },
   {
+    "id": 104,
     "productType": "NONE",
     "productTypeName": "",
     "productBrand": "Jordan Essentials",
@@ -40,6 +47,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/menFleecePulloverHoodieRed.png",
   },
   {
+
+    "id": 105,
     "productType": "NONE",
     "productTypeName": "",
     "productBrand": "Jordan Essentials",
@@ -48,6 +57,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/menFleecePullover.png",
   },
   {
+
+    "id": 106,
     "productType": "NONE",
     "productTypeName": "",
     "productBrand": "Jordan Essentials Statement",
@@ -56,6 +67,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/menFleecePulloverHoodieBlack.png",
   },
   {
+
+    "id": 107,
     "productType": "NONE",
     "productTypeName": "",
     "productBrand": "Jordan Essentials",
@@ -64,6 +77,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/menSweatPants.png",
   },
   {
+
+    "id": 108,
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Therma",
@@ -72,6 +87,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/menPulloverTrainingHoodie.png",
   },
   {
+
+    "id": 109,
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Sportwear Club Fleece",
@@ -80,6 +97,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/menSweatPants.png",
   },
   {
+
+    "id": 110,
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Sportwear Club Fleece",
@@ -88,6 +107,7 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeOrangeHoodie.png",
   },
   {
+    "id": 111,
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Dri-FIT Miler",
@@ -96,6 +116,7 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeRedSinglet.png",
   },
   {
+    "id": 112,
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Flex Experience Run 10",
@@ -104,6 +125,8 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeFlexExperienceRun10.png",
   },
   {
+
+    "id": 113,
     "productType": "UNAVAILABLE",
     "productTypeName": "Unavailable",
     "productBrand": "Nike Downshifter 11",
@@ -112,6 +135,7 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeDownshifter11.png",
   },
   {
+    "id": 114,
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Legend Essential 2",
@@ -120,6 +144,7 @@
     "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeLegendEssential2.png",
   },
   {
+    "id": 115,
     "productType": "UNAVAILABLE",
     "productTypeName": "Unavailable",
     "productBrand": "Nike Air Max Bella TR 4",
