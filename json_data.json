@@ -1,6 +1,8 @@
 [
   {
     "id": 100,
+    "category": "ACCESSORIES_EQUIPMENT",
+    "categoryName": "Accessories & Equipment",
     "productType": "SOLD_OUT",
     "productTypeName": "Sold Out",
     "productBrand": "Nike Elite Pro",
@@ -10,6 +12,8 @@
   },
   {
     "id": 101,
+    "category": "ACCESSORIES_EQUIPMENT",
+    "categoryName": "Accessories & Equipment",
     "productType": "SOLD_OUT",
     "productTypeName": "Sold Out",
     "productBrand": "Nike Heritage",
@@ -20,6 +24,8 @@
   {
 
     "id": 102,
+    "category": "ACCESSORIES_EQUIPMENT",
+    "categoryName": "Accessories & Equipment",
     "productType": "SOLD_OUT",
     "productTypeName": "Sold Out",
     "productBrand": "Nike Air",
@@ -30,6 +36,8 @@
   {
 
     "id": 103,
+    "category": "ACCESSORIES_EQUIPMENT",
+    "categoryName": "Accessories & Equipment",
     "productType": "SOLD_OUT",
     "productTypeName": "Sold Out",
     "productBrand": "Nike",
@@ -39,6 +47,8 @@
   },
   {
     "id": 104,
+    "category": "HOODIES_PULLOVERS",
+    "categoryName": "Hoodies & Pullovers",
     "productType": "NONE",
     "productTypeName": "",
     "productBrand": "Jordan Essentials",
@@ -49,6 +59,8 @@
   {
 
     "id": 105,
+    "category": "HOODIES_PULLOVERS",
+    "categoryName": "Hoodies & Pullovers",
     "productType": "NONE",
     "productTypeName": "",
     "productBrand": "Jordan Essentials",
@@ -59,6 +71,8 @@
   {
 
     "id": 106,
+    "category": "HOODIES_PULLOVERS",
+    "categoryName": "Hoodies & Pullovers",
     "productType": "NONE",
     "productTypeName": "",
     "productBrand": "Jordan Essentials Statement",
@@ -69,6 +83,8 @@
   {
 
     "id": 107,
+    "category": "PANTS",
+    "categoryName": "Pants",
     "productType": "NONE",
     "productTypeName": "",
     "productBrand": "Jordan Essentials",
@@ -79,6 +95,8 @@
   {
 
     "id": 108,
+    "category": "HOODIES_PULLOVERS",
+    "categoryName": "Hoodies & Pullovers",
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Therma",
@@ -89,6 +107,8 @@
   {
 
     "id": 109,
+    "category": "PANTS",
+    "categoryName": "Pants",
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Sportwear Club Fleece",
@@ -99,6 +119,8 @@
   {
 
     "id": 110,
+    "category": "HOODIES_PULLOVERS",
+    "categoryName": "Hoodies & Pullovers",
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Sportwear Club Fleece",
@@ -108,6 +130,8 @@
   },
   {
     "id": 111,
+    "category": "TOPS_TSHIRTS",
+    "categoryName": "Tops & T-Shirts",
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Dri-FIT Miler",
@@ -117,6 +141,8 @@
   },
   {
     "id": 112,
+    "category": "SHOES",
+    "categoryName": "Shoes",
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Flex Experience Run 10",
@@ -127,6 +153,8 @@
   {
 
     "id": 113,
+    "category": "SHOES",
+    "categoryName": "Shoes",
     "productType": "UNAVAILABLE",
     "productTypeName": "Unavailable",
     "productBrand": "Nike Downshifter 11",
@@ -136,6 +164,8 @@
   },
   {
     "id": 114,
+    "category": "SHOES",
+    "categoryName": "Shoes",
     "productType": "BESTSELLER",
     "productTypeName": "Bestseller",
     "productBrand": "Nike Legend Essential 2",
@@ -145,6 +175,8 @@
   },
   {
     "id": 115,
+    "category": "SHOES",
+    "categoryName": "Shoes",
     "productType": "UNAVAILABLE",
     "productTypeName": "Unavailable",
     "productBrand": "Nike Air Max Bella TR 4",
