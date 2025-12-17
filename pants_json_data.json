@@ -1,0 +1,24 @@
+[
+  {
+    "id": 107,
+    "category": "PANTS",
+    "categoryName": "Pants",
+    "productType": "NONE",
+    "productTypeName": "",
+    "productBrand": "Jordan Essentials",
+    "productName": "Men Fleece Sweatpants",
+    "price": 55.45,
+    "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/menSweatPants.png",
+  },
+  {
+    "id": 109,
+    "category": "PANTS",
+    "categoryName": "Pants",
+    "productType": "BESTSELLER",
+    "productTypeName": "Bestseller",
+    "productBrand": "Nike Sportwear Club Fleece",
+    "productName": "Men Fleece Sweatpants",
+    "price": 33.97,
+    "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/menSweatPants.png",
+  },
+]

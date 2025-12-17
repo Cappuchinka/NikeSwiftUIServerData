@@ -1,0 +1,48 @@
+[
+  {
+    "id": 100,
+    "category": "ACCESSORIES_EQUIPMENT",
+    "categoryName": "Accessories & Equipment",
+    "productType": "SOLD_OUT",
+    "productTypeName": "Sold Out",
+    "productBrand": "Nike Elite Pro",
+    "productName": "Basketball Backpack(32L) 3 Colours",
+    "price": 85.0,
+    "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeEliteProBasketballBackpack.png",
+  },
+  {
+    "id": 101,
+    "category": "ACCESSORIES_EQUIPMENT",
+    "categoryName": "Accessories & Equipment",
+    "productType": "SOLD_OUT",
+    "productTypeName": "Sold Out",
+    "productBrand": "Nike Heritage",
+    "productName": "Basketball Backpack (32L) 4 Colours",
+    "price": 40.97,
+    "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/basketballBackpack.png",
+  },
+  {
+
+    "id": 102,
+    "category": "ACCESSORIES_EQUIPMENT",
+    "categoryName": "Accessories & Equipment",
+    "productType": "SOLD_OUT",
+    "productTypeName": "Sold Out",
+    "productBrand": "Nike Air",
+    "productName": "Basketball Backpack",
+    "price": 49.99,
+    "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeAirBasketballBackpack.png",
+  },
+  {
+
+    "id": 103,
+    "category": "ACCESSORIES_EQUIPMENT",
+    "categoryName": "Accessories & Equipment",
+    "productType": "SOLD_OUT",
+    "productTypeName": "Sold Out",
+    "productBrand": "Nike",
+    "productName": "Bag",
+    "price": 35.00,
+    "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeBag.png",
+  }
+]

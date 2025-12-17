@@ -1,0 +1,13 @@
+[
+  {
+    "id": 111,
+    "category": "TOPS_TSHIRTS",
+    "categoryName": "Tops & T-Shirts",
+    "productType": "BESTSELLER",
+    "productTypeName": "Bestseller",
+    "productBrand": "Nike Dri-FIT Miler",
+    "productName": "Man Training Singlet",
+    "price": 29.99,
+    "image_url": "https://raw.githubusercontent.com/Cappuchinka/NikeSwiftUIServerData/refs/heads/master/resources/nikeRedSinglet.png",
+  },
+]
